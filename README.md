@@ -21,7 +21,7 @@ Perfect for beginners learning backend development.
 ## 📂 Project Files
 - index.html → Register form
 - login.html → Login form
-- register.php → Handles register & login logic
+- submit.php → Handles register & login logic
 - users table → MySQL database
 
 ## ▶ YouTube Tutorial
